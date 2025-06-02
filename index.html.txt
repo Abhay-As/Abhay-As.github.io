@@ -2,7 +2,7 @@
 <html>
     <head>
         <title>TO-DO-LIST</title>
-        <link rel="stylesheet" href="C:\Users\abhay\Abhay-As.github.io\css">
+        <link rel="stylesheet" href=""css/style.css"">
     </head>
     <body>
         <div class="container">
@@ -11,6 +11,6 @@
             <button id="add-task">ADD-IT</button>
             <ol id="task-list" style="background-color: aliceblue;"></ol>
         </div>
-        <script src="C:\Users\abhay\Abhay-As.github.io\js"></script>
+        <script src="js/script.js"></script>
     </body>
 </html>
